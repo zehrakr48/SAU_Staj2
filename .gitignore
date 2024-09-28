@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+venv/
+__pycache__/
+uploads/
+dataset-parser/
+files/
+
+.env
+solve.txt
+conversation.json
+dataset.json
+ft_key.json

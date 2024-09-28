@@ -1,0 +1,37 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "jwt-decode": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3",
+    "tedious": "^18.3.0"
+  },
+  "devDependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3",
+    "tedious": "^18.3.0"
+  }
+}
